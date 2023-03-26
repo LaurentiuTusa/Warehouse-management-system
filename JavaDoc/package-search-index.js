@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com"},{"l":"com.business_logic"},{"l":"com.connection"},{"l":"com.data_access"},{"l":"com.model"},{"l":"com.view"}];updateSearchResults();
